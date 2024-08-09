@@ -1,0 +1,254 @@
+{
+  "Header": {
+    "Nav": {
+      "Home": { "name": "Home", "link": "/" },
+      "Products": { "name": "Products", "link": "/products" },
+      "AboutUs": { "name": "About us", "link": "/about" },
+      "ContactUs": { "name": "Contact Us", "link": "/contacts" }
+    }
+  },
+  "Footer": {
+    "Copyright": "Copyright",
+    "AllRights": "All Rights Reserved",
+    "DevelopedBy": "Developed by"
+  },
+  "Metadata": {
+    "Main": {
+      "Home": "Home",
+      "Desc": "Online store of national items"
+    },
+    "Products": {
+      "Products": "Products"
+    },
+    "Cart": {
+      "Cart": "Cart"
+    }
+  },
+  "Home": {
+    "PopularProducts": "Popular products",
+    "ViewProducts": "View all products"
+  },
+  "ProductCard": {
+    "AddToCart": "Add to cart",
+    "BuyNow": "Buy now"
+  },
+  "News": {
+    "News": "News",
+    "View": "View all news",
+    "ViewArticle": "View article",
+    "ViewVideo": "View video"
+  },
+  "HomeAbout": {
+    "ArtMade": "Art made in Bright gallery",
+    "PotteryArt": "Attention to everyone who is interested in pottery art",
+    "Text1": "We have been engaged in pottery art for 15 years",
+    "Text2": "Samples created by our craftsmen can be seen in tourist centers of various regions of Uzbekistan and, of course, in the city of Tashkent.",
+    "Text3": "Our goal is to constantly develop the cultural heritage and craft traditions of Uzbekistan!",
+    "Text4": "So subscribe now to join us."
+  },
+  "Common": {
+    "ContactUs": "Contact us",
+    "Products": "Products",
+    "Comments": "Comments",
+    "RateProd": "Rate our product",
+    "AddComment": "Add comment",
+    "BackToMain": "Back to main page",
+    "Delete": "Delete",
+    "Save": "Save",
+    "Cancel": "Cancel",
+    "AddNewAddress": "Add New Address",
+    "AddNewCard": "Add new card",
+    "SelectAddress": "Select Address",
+    "Card": "Card",
+    "SureDeleteAddress": "Are you sure you want to delete this address?",
+    "SureDeleteCard": "Are you sure you want to delete this card?",
+    "ChoosePayment": "Choose payment card",
+    "FieldRequired": "Field is required",
+    "InvalidEmail": "Email must be valid",
+    "PassMatch": "Passwords must match",
+    "PassLong": "Password must be at least 8 characters long",
+    "PassSpecial": "Password must contain at least one special character",
+    "ForgotPass": "Forgot your password?",
+    "SmtWentWrong": "Something went wrong",
+    "OrderConfirm": "Do you want to order this product ?",
+    "Order": "Order",
+    "SuccessCard": "The card successfully added",
+    "SuccessLocation": "The address was successfully added",
+    "SuccessLocationUpdate": "The address was successfully updated",
+    "SuccessDeleted": "Successfully deleted",
+    "YouCantRemoveMain": "Main address cannot be deleted"
+  },
+  "Faq": {
+    "FaqTitle": "Frequently asked questions",
+    "Faq": "FAQ"
+  },
+  "Catalog": {
+    "FilterKeys": {
+      "All": "All",
+      "Authors": "Author's",
+      "InStock": "In Stock"
+    },
+    "Search": "Search"
+  },
+  "Cart": {
+    "ShoppingCart": "Shopping Cart",
+    "OrderSummary": "Order Summary",
+    "Subtotal": "Subtotal",
+    "Discount": "Discount",
+    "Total": "Total",
+    "Pay": "Pay",
+    "Recommendations": "Recommendations",
+    "EmptyCart": "Your cart is empty",
+    "OrderThings": "If you order things, they will appear in this page"
+  },
+  "Order": {
+    "OrderDetails": "Order details",
+    "ChooseOrderLocation": "Choose order location",
+    "MakeOrder": "Make order",
+    "AddOrderLocation": "Add order location",
+    "Country": "Country",
+    "City": "City",
+    "Street": "Street",
+    "ZipCode": "Zip code",
+    "PhoneNumber": "Phone number",
+    "TitleAddress": "Title of the address",
+    "Uzbekistan": "Uzbekistan",
+    "Tashkent": "Tashkent",
+    "ANavoiy": "A. Navoiy",
+    "First": "Theatre",
+    "OrderSuccess": "The order was successfully completed",
+    "ChoosePayment": "Choose payment card",
+    "CardName": "Card name",
+    "CardNumber": "Card number",
+    "ExpDate": "Exp.Date",
+    "AddPaymentCard": "Add payment card"
+  },
+  "AboutUs": {
+    "AboutUs": "About us",
+    "AboutCompany": {
+      "AboutOne": {
+        "image": "/about-1.jpg",
+        "title": "Samples",
+        "text": "Samples created by our masters can be seen in tourist centers of various regions of Uzbekistan and, course, in the city of Tashkent."
+      },
+      "AboutTwo": {
+        "image": "/about-2.jpg",
+        "title": "Bright gallery",
+        "text": "Let's talk about the activities of Bright Gallery We have been engaged in pottery art for 15 years."
+      },
+      "AboutThree": {
+        "image": "/about-3.jpg",
+        "title": "Our goal",
+        "text": "Our goal is to constantly develop the cultural heritage and craft traditions of Uzbekistan!"
+      }
+    },
+    "AboutOwnerTitle": "About Djurayev Gayrat",
+    "AboutOwner": {
+      "AboutOne": {
+        "text": "He was born in 1989 in  the Gizhdivon district of Bukhara region. He began studying pottery in the 3rd grade, from the 4th grade he participated in regional and city competitions and achieved high results until he graduated from school",
+        "image": "/owner-1.jpg"
+      },
+      "AboutTwo": {
+        "text": "After graduating from school, he studied at the College of Art and Design in Tashkent. He was recognized as the winner in the category best master of the year at the Republican Olympiad",
+        "image": "/owner-2.jpg"
+      },
+      "AboutThree": {
+        "text": "He was accepted to study at the Institute of Painting and Design named after Kamoliddin Bekhzod on a general basis. By 2024, he will participate in city, republican and international competitions and exhibitions, achieving high results.",
+        "image": "/owner-3.jpg"
+      }
+    },
+    "SendMessage": "Send message"
+  },
+  "Contacts": {
+    "Name": "Name",
+    "PhoneNumber": "Phone number",
+    "Message": "Message",
+    "TypeMsg": "Type your message here...",
+    "Requisites": {
+      "ROne": {
+        "name": "Phone",
+        "value": "+998 95 551 11 55",
+        "type": "phoneType"
+      },
+      "RTwo": {
+        "name": "Address",
+        "value": "Tashkent city park, in front of Tashkent city mall",
+        "type": "addressType"
+      },
+      "RThree": {
+        "name": "E-mail",
+        "value": "brightgallery.uz@gmail.com",
+        "type": "emailType"
+      },
+      "RFour": {
+        "name": "Social media",
+        "value": {
+          "One": "/telegram.svg",
+          "Two": "/insta.svg"
+        }
+      }
+    },
+    "SendMessage": "Send message"
+  },
+  "Profile": {
+    "Profile": "Profile",
+    "ProfileSidebar": {
+      "One": {
+        "Name": "My address",
+        "Link": "/profile/address"
+      },
+      "Two": {
+        "Name": "Cards",
+        "Link": "/profile/card"
+      },
+      "Three": {
+        "Name": "Orders",
+        "Link": "/profile/orders"
+      }
+    },
+    "LeaveAcc": "Leave account",
+    "DeleteAcc": "Delete account",
+    "ProfileForm": {
+      "Name": "Name",
+      "Email": "Email",
+      "Surname": "Surname"
+    },
+    "Orders": {
+      "Orders": "Orders",
+      "OrderProcessed": "Order is processed:",
+      "Confirmed": "Confirmed",
+      "Items": "Items",
+      "Order": "Order",
+      "ToPay": "To pay",
+      "LeaveComment": "Leave comment",
+      "AddCommentPlaceholder": "Add a comment (optional)",
+      "Send": "Send",
+      "Discount": "Discount",
+      "Pcs": "pcs",
+      "ChoosePhotoPlaceholder": "Choose only one photo (optional)",
+      "CommentSuccess": "Your comment successfully added"
+    },
+    "SignOut": "Sign out"
+  },
+  "Auth": {
+    "SignUpAccount": "Sign Up to your account",
+    "NamePlaceholder": "Your name...",
+    "SurnamePlaceholder": "Your surname...",
+    "EmailPlaceholder": "Your email...",
+    "PassPlaceholder": "Your password...",
+    "Name": "Name",
+    "Surname": "Surname",
+    "Email": "Email",
+    "Password": "Password",
+    "SignUp": "Sign up",
+    "SignUpGoogle": "Sign Up with Google",
+    "IfYouHave": "If you have an account, push",
+    "SignInAccount": "Sign In to your account",
+    "SignIn": "Sign In",
+    "SignInGoogle": "Sign in with Google",
+    "IfYouHavent": "If you do not have an account, push",
+    "PassOrEmailInvalid": "Invalid password or email",
+    "ConfirmPassWord": "Confirm password",
+    "ConfirmPassPlaceholder": "Confirm your password..."
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "Nav": {
+      "Home": { "name": "Bosh sahifa", "link": "/" },
+      "Products": { "name": "Mahsulotlar", "link": "/products" },
+      "AboutUs": { "name": "Biz haqimizda", "link": "/about" },
+      "ContactUs": { "name": "Bog'lanish", "link": "/contacts" }
+    }
+  },
+  "Footer": {
+    "Copyright": "Mualliflik huquqi",
+    "AllRights": "Barcha huquqlar himoyalangan",
+    "DevelopedBy": "Tomonidan ishlab chiqilgan"
+  },
+  "Metadata": {
+    "Main": {
+      "Home": "Bosh sahifa",
+      "Desc": "Milliy buyumlar onlayn do'koni"
+    },
+    "Products": {
+      "Products": "Mahsulotlar"
+    },
+    "Cart": {
+      "Cart": "Savat"
+    }
+  },
+  "Home": {
+    "PopularProducts": "Mashhur mahsulotlar",
+    "ViewProducts": "Barcha mahsulotlarni ko'rish"
+  },
+  "ProductCard": {
+    "AddToCart": "Savatga",
+    "BuyNow": "Sotib olish"
+  },
+  "News": {
+    "News": "Yangiliklar",
+    "View": "Barcha yangiliklarni ko'rish",
+    "ViewArticle": "Maqolani ko'rish",
+    "ViewVideo": "Videoni ko'rish"
+  },
+  "HomeAbout": {
+    "ArtMade": "Yorqin galereyada yaratilgan san'at",
+    "PotteryArt": "Kulolchilik san'atiga qiziquvchilar uchun e'tibor",
+    "Text1": "Biz 15 yildan beri kulolchilik san'ati bilan shug'ullanamiz",
+    "Text2": "Bizning ustalar tomonidan yaratilgan namunalarni O'zbekistonning turli mintaqalaridagi sayyohlik markazlarida va, albatta, Toshkent shahrida ko'rish mumkin.",
+    "Text3": "Bizning maqsadimiz O'zbekistonning madaniy merosi va hunarmandchilik an'analarini doimiy ravishda rivojlantirishdir!",
+    "Text4": "Shuning uchun bizga qo'shilish uchun hozir obuna bo'ling."
+  },
+  "Common": {
+    "ContactUs": "Bog'lanish",
+    "Products": "Mahsulotlar",
+    "Comments": "Sharhlar",
+    "RateProd": "Mahsulotimizni baholang",
+    "AddComment": "Sharh qo'shish",
+    "BackToMain": "Bosh sahifaga qaytish",
+    "Delete": "O'chirish",
+    "Save": "Saqlash",
+    "Cancel": "Bekor qilish",
+    "AddNewAddress": "Yangi manzil qo'shish",
+    "AddNewCard": "Yangi karta qo'shish",
+    "SelectAddress": "Manzilni tanlash",
+    "Card": "Karta",
+    "SureDeleteAddress": "Ushbu manzilni o'chirishga aminmisiz?",
+    "SureDeleteCard": "Ushbu kartani o'chirishga aminmisiz?",
+    "ChoosePayment": "To'lov kartasini tanlang",
+    "FieldRequired": "Maydon majburiy",
+    "InvalidEmail": "Email yaroqli bo'lishi kerak",
+    "PassMatch": "Parollar mos kelishi kerak",
+    "PassLong": "Parol kamida 8 ta belgidan iborat bo'lishi kerak",
+    "PassSpecial": "Parolda kamida bitta maxsus belgi bo'lishi kerak",
+    "ForgotPass": "Parolni unutdingizmi?",
+    "SmtWentWrong": "Nimadir xato bo'ldi",
+    "OrderConfirm": "Ushbu mahsulotni buyurtma qilishni xohlaysizmi?",
+    "Order": "Buyurtma",
+    "SuccessCard": "Karta muvaffaqiyatli qo'shildi",
+    "SuccessLocation": "Manzil muvaffaqiyatli qo'shildi",
+    "SuccessLocationUpdate": "Manzil muvaffaqiyatli yangilandi",
+    "SuccessDeleted": "Muvaffaqiyatli o'chirildi",
+    "YouCantRemoveMain": "Asosiy manzilni o'chirib bo'lmaydi"
+  },
+  "Faq": {
+    "FaqTitle": "Tez-tez so'raladigan savollar",
+    "Faq": "FAQ"
+  },
+  "Catalog": {
+    "FilterKeys": {
+      "All": "Hammasi",
+      "Authors": "Mualliflar",
+      "InStock": "Omborda"
+    },
+    "Search": "Qidirish"
+  },
+  "Cart": {
+    "ShoppingCart": "Savat",
+    "OrderSummary": "Buyurtma xulosasi",
+    "Subtotal": "Jami",
+    "Discount": "Chegirma",
+    "Total": "Jami",
+    "Pay": "To'lash",
+    "Recommendations": "Tavsiya etilganlar",
+    "EmptyCart": "Savat bo'sh",
+    "OrderThings": "Agar narsalarni buyurtma qilsangiz, ular ushbu sahifada paydo bo'ladi"
+  },
+  "Order": {
+    "OrderDetails": "Buyurtma tafsilotlari",
+    "ChooseOrderLocation": "Buyurtma joyini tanlang",
+    "MakeOrder": "Buyurtma qilish",
+    "AddOrderLocation": "Buyurtma joyini qo'shish",
+    "Country": "Mamlakat",
+    "City": "Shahar",
+    "Street": "Ko'cha",
+    "ZipCode": "Pochta indeksi",
+    "PhoneNumber": "Telefon raqami",
+    "TitleAddress": "Manzil nomi",
+    "Uzbekistan": "O'zbekiston",
+    "Tashkent": "Toshkent",
+    "ANavoiy": "A. Navoiy",
+    "First": "Teatr",
+    "OrderSuccess": "Buyurtma muvaffaqiyatli bajarildi",
+    "ChoosePayment": "To'lov kartasini tanlang",
+    "CardName": "Karta nomi",
+    "CardNumber": "Karta raqami",
+    "ExpDate": "Amal qilish muddati",
+    "AddPaymentCard": "To'lov kartasini qo'shish"
+  },
+  "AboutUs": {
+    "AboutUs": "Biz haqimizda",
+    "AboutCompany": {
+      "AboutOne": {
+        "image": "/about-1.jpg",
+        "title": "Namunalar",
+        "text": "Bizning ustalar tomonidan yaratilgan namunalarni O'zbekistonning turli mintaqalaridagi sayyohlik markazlarida va, albatta, Toshkent shahrida ko'rish mumkin."
+      },
+      "AboutTwo": {
+        "image": "/about-2.jpg",
+        "title": "Yorqin galereya",
+        "text": "Yorqin Galereya faoliyati haqida gaplashamiz Biz 15 yildan beri kulolchilik san'ati bilan shug'ullanamiz."
+      },
+      "AboutThree": {
+        "image": "/about-3.jpg",
+        "title": "Bizning maqsad",
+        "text": "Bizning maqsadimiz O'zbekistonning madaniy merosi va hunarmandchilik an'analarini doimiy ravishda rivojlantirishdir!"
+      }
+    },
+    "AboutOwnerTitle": "Gayrat Djuraev haqida",
+    "AboutOwner": {
+      "AboutOne": {
+        "text": "U 1989 yilda Buxoro viloyati G'ijdivon tumanida tug'ilgan. 3-sinfdan boshlab u kulolchilikni o'rganishni boshlagan, 4-sinfdan boshlab u viloyat va shahar musobaqalarida ishtirok etib, yuqori natijalarga erishgan va maktabni tugatgunga qadar yuqori natijalarga erishgan",
+        "image": "/owner-1.jpg"
+      },
+      "AboutTwo": {
+        "text": "Maktabni tugatgach, Toshkentdagi San'at va dizayn kollejida o'qigan. U Respublika olimpiadasida yilning eng yaxshi ustasi nominatsiyasida g'olib deb topildi",
+        "image": "/owner-2.jpg"
+      },
+      "AboutThree": {
+        "text": "U Kamoliddin Behzod nomidagi Rassomlik va dizayn institutida umumiy asosda o'qishga qabul qilindi. 2024 yilga kelib, u shahar, respublika va xalqaro musobaqalar va ko'rgazmalarda ishtirok etib, yuqori natijalarga erishadi.",
+        "image": "/owner-3.jpg"
+      }
+    },
+    "SendMessage": "Xabar yuborish"
+  },
+  "Contacts": {
+    "Name": "Ism",
+    "PhoneNumber": "Telefon raqami",
+    "Email": "Email",
+    "Message": "Xabar",
+    "WriteMessage": "Xabar yozing",
+    "Send": "Yuborish"
+  },
+  "Login": {
+    "Login": "Kirish",
+    "Register": "Ro'yxatdan o'tish",
+    "HaveAccount": "Hisobingiz bormi?",
+    "NoAccount": "Hisobingiz yo'qmi?",
+    "Name": "Ism",
+    "Email": "Email",
+    "PhoneNumber": "Telefon raqami",
+    "Password": "Parol",
+    "ConfirmPassword": "Parolni tasdiqlang",
+    "TermsConditions": "Foydalanuvchining shartlari va qoidalarini o'qing va rozilik bildiring",
+    "ConfirmLogin": "Kirishni tasdiqlang",
+    "ConfirmRegister": "Ro'yxatdan o'tishni tasdiqlang"
+  }
+}
